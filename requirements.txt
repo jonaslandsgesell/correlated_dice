@@ -1,0 +1,8 @@
+ipympl
+IPython
+ipywidgets
+matplotlib
+numpy
+pre-commit
+scipy
+statsmodels
